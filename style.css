@@ -1,0 +1,87 @@
+
+body{
+
+	background-color: #a4b0be;
+}
+
+.welcome_text{
+	color: #2f3542;
+	padding-top: 400px;
+	padding-bottom: 400px;
+	text-shadow: 2px 3px #70a1ff;
+
+}
+
+
+.navtext{
+
+	color: #2f3542;
+}
+
+.brandname{
+	font-size: 30px;
+	word-spacing: 5px;
+	text-shadow: 2px 3px #70a1ff;
+	color: #2d3436;
+	font-weight: bold;
+}
+
+.waifuimg{
+	padding: 130px;
+	
+}
+
+.waifugif1{
+	padding: 60px;
+	padding-top: 125px;
+}
+
+.waifugif2{
+	padding: 75px;
+	padding-top: 70px;
+}
+
+.waifutext{
+	padding-top: 250px;
+	padding-bottom: 250px;
+}
+
+.infocards{
+	height: 600px;
+	border-style: groove;
+	border-color: #222f3e;
+	border-width: 1px;
+}
+
+.warningcard{
+	border-style: groove;
+	border-color: #222f3e;
+	border-width: 1px;
+}
+
+.infocardmain{
+	background-color: white;
+}
+
+.waifudescription{
+	padding: 20px;
+}
+
+.demowaifus{
+	width: 100%;
+	height: 600px;
+}
+
+.demowaifus1{
+	margin-left: 100%;
+}
+
+.ownertitle{
+	font-family: Courier New;
+
+}
+
+.ownerdescription{
+	font-family: 'Monotype Corsiva', 'Comic Sans MS', cursive;
+	
+}
