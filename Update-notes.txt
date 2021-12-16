@@ -1,0 +1,2 @@
+Updates:
+	1. Made the index page responsive
